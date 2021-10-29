@@ -1,0 +1,16 @@
+1	U-shaped	Small		50	
+2	U-shaped	Medium 		100	
+3 	U-shaped	Large		300	
+4	Theatre		Small		50	
+5	Theatre		Medium		100	
+6	Theatre		Large		300	
+7	Banquet		Small		50	
+8	Banquet		Medium		100	
+9 	Banquet		Large		300	
+10	Classroom	Small		50	
+11	Classroom	Medium		100	
+12 	Classroom	Large		300	
+13	Boardroom	Small		50	
+14	Boardroom	Medium		100
+15	Boardroom	Large		300	
+	
